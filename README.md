@@ -6,3 +6,8 @@ The primary objective of the Director of Marketing is to encourage casual riders
 
 **Goal of the project:** 
 build Machine Learning models to classify whether bike share users will purchase mambership options oe not, using 5 different ML models & advanced feature engineering techniques with Python ScikitLearn.
+
+This project contains the following steps:
+- Exploratory Data Analysis
+- Feature engineering
+- Modeling

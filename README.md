@@ -11,3 +11,7 @@ This project contains the following steps:
 - Exploratory Data Analysis
 - Feature engineering
 - Modeling
+
+## Exploratory Data Analysis
+### Overview of the data & and composition of membership vs casual users
+
